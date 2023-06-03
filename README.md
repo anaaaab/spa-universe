@@ -24,7 +24,7 @@ Overall, SPA Universe serves as a valuable tool for those interested in learning
 
 #
 
-- [Explore the Universe! click here](https://anaaaab.github.io/spa-universe)
+- [Explore the Universe! click here](https://spa-universe-explore.vercel.app/)
 
 ![preview](assets/preview.png)
 
